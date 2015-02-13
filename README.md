@@ -15,7 +15,7 @@ $ npm install --save random-qoutes-generator
 ```js
 var random-qoutes-generator = require('random-qoutes-generator');
 
-random-qoutes-generator('Rainbow');
+random-qoutes-generator();
 ```
 
 ```sh
