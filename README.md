@@ -1,4 +1,4 @@
-# Random quotes generator [![NPM version][npm-image]][npm-url] [![][travis-image][travis-url]]
+# Random quotes generator [![NPM version][npm-image]][npm-url] [![][travis-image]][travis-url]
 
 > This module will generate greate quotes from the notable people around world
 
